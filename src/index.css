@@ -16,4 +16,8 @@ ul li {
   padding-bottom: 1em;
 }
 
+ul li .author {
+  font-size:11px;
+}
+
 
